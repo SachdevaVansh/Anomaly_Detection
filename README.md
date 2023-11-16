@@ -43,7 +43,7 @@ To run the code, follow these installation steps:
 ## Usage
 Run the following code by executing the main script
 
-'''bash
+```bash
 python AnomalyDetection.py
 
 ## Code Structure
