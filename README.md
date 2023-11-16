@@ -36,7 +36,7 @@ To run the code, follow these installation steps:
    git clone https://github.com/SachdevaVansh/Anomaly_Detection.git
    cd repository
 
-2.install the required python packages
+2. Install the required python packages
    ```bash
    pip install -r requirements.txt
 
