@@ -43,8 +43,6 @@ To run the code, follow these installation steps:
 ## Usage
 Run the following code by executing the main script
 
-3. Run this code for executing the main script
-```bash
 python AnomalyDetection.py
 
 ## Code Structure
@@ -83,5 +81,7 @@ We welcome contributions! If you find issues or have suggestions, please create 
 
 ## License
 This project is licensed under the MIT License.
+
+
 
 
